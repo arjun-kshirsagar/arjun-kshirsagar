@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 I'm a passionate Software Engineer with a strong focus on backend development.  
-Currently working as an **SDE 1 at Wealthy.in**, where I design scalable systems and build high-performance services for investment analytics and CRM platforms.
+Currently working as an **SDE 1 at [Wealthy.in](https://wealthy.in)**, where I design scalable systems and build high-performance services for investment analytics and CRM platforms.
 
 - 🔨 Built a complete **Reporting Microservice** from scratch
 - 📊 Developed **ETL pipelines** for data-rich CRM systems
@@ -38,7 +38,7 @@ Pandas • NumPy • Matplotlib • Postman • Git
 ## 📚 Projects
 
 - 🔧 **[Library Management System](#)** — CRUD-based Spring Boot backend with complete logging & API validation
-- 🖼️ **Command Line Image Editor** — CLI tool in Java for grayscale, contrast, blur & more
+- 🖼️ **[Command Line Image Editor](https://github.com/arjun-kshirsagar/Image-Editor)** — CLI tool in Java for grayscale, contrast, blur & more
 - 📊 **YULU Data Analysis** — Python-based statistical analysis & visual storytelling using real-world mobility data
 
 ---
