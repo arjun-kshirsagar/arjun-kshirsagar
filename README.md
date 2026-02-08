@@ -2,7 +2,7 @@
 
 👨‍💻 Engineer | 🎓 Student  
 🛠️ Backend Engineer @ Wealthy.in  
-📍 Bengaluru, India | 🌐 [arjunkshirsagar.dev](https://github.com/arjun-kshirsagar)
+📍 Bengaluru, India | 🌐 [https://arjun-kshirsagar.vercel.app](https://arjun-kshirsagar.vercel.app/)
 
 ---
 
