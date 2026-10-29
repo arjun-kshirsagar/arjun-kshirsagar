@@ -1,45 +1,21 @@
 # 👋 Hi, I'm Arjun Kshirsagar
 
 👨‍💻 Engineer | 🎓 Student  
-🛠️ Backend Engineer @ Wealthy.in  
 📍 Bengaluru, India | 🌐 [https://arjun-kshirsagar.vercel.app](https://arjun-kshirsagar.vercel.app/)
 
----
+I build backend systems, infra, and LLM-powered products. Currently open to roles at early-stage startups (Bengaluru / remote).
 
-## 🚀 About Me
-
-I'm a passionate Software Engineer with a strong focus on backend development.  
-Currently working as an **SDE 1 at [Wealthy.in](https://wealthy.in)**, where I design scalable systems and build high-performance services for investment analytics and CRM platforms.
-
-- 🔨 Built a complete **Reporting Microservice** from scratch
-- 📊 Developed **ETL pipelines** for data-rich CRM systems
-- 📈 Created analytics features for **Stock Broking and AIF**
-- 💡 Owned the **Investment Tracker**, used by 20K+ users
-- 🧠 I love solving performance bottlenecks with tools like Redis, Celery, and multiprocessing
 
 ---
 
-## 🧠 Tech Stack
-
-**Languages:**  
-Java • Python • JavaScript • Bash • HTML/CSS
-
-**Frameworks & Tools:**  
-FastAPI • Django • Spring Boot • React • MERN • Celery • GraphQL
-
-**Databases:**  
-PostgreSQL • MySQL • MongoDB • Redis • Cassandra
-
-**Libraries:**  
-Pandas • NumPy • Matplotlib • Postman • Git
-
----
-
-## 📚 Projects
-
-- 🔧 **[Library Management System](#)** — CRUD-based Spring Boot backend with complete logging & API validation
-- 🖼️ **[Command Line Image Editor](https://github.com/arjun-kshirsagar/Image-Editor)** — CLI tool in Java for grayscale, contrast, blur & more
-- 📊 **YULU Data Analysis** — Python-based statistical analysis & visual storytelling using real-world mobility data
+## 🛠️ Recent work
+ 
+- **Edelweiss Global Markets — Photon HFT** (Jul–Oct 2026)  
+  Built a Docker Swarm build pool + dispatcher that cut build times from ~7 min to under 2 min; built an AI SRE agent for prod/dev server debugging; shipped access control, core allocation and dashboards on the internal admin portal.
+- **Profound** (AI Engineering, founding team)  
+  Built the conversational "Rep" agent across chat and real-time voice, a layered memory/context system, LLM-as-judge call evaluation, per-task LLM routing, and a provider-agnostic voice layer (ElevenLabs / Cartesia).
+- **Wealthy.in** (Backend Engineer)  
+  Built a reporting microservice, CRM ETL pipelines, and owned the Investment Tracker (20K+ users).
 
 ---
 
